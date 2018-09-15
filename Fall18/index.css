@@ -13,6 +13,9 @@ body{
 	padding: 14px 16px;
 
 }
+.navbar .hover{
+	background-color: green;
+}
 .navbar a.active{
 	color: white;
 }
