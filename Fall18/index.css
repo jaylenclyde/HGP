@@ -2,3 +2,17 @@ body{
 	background-color: black;
 	color: purple;
 }
+.navbar{
+	overflow: hidden;
+	background: #333;
+}
+.navbar a{
+	text-align: center;
+	text-decoration: none;
+	float: left;
+	padding: 14px 16px;
+
+}
+.navbar a.active{
+	color: white;
+}
